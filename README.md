@@ -10,5 +10,6 @@ Show the hiro marker infront of camera in anyone of your device.
 Navigate to your favourite subjects and enjoy the world augmneted reality provides you with.
 
 SCREEN SHOTS:
+![screenshot 38](https://user-images.githubusercontent.com/29522653/50051680-b3ef9800-013c-11e9-88e0-f83d7a0f1d5d.png)
 
 
