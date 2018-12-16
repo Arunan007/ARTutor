@@ -12,15 +12,14 @@
     <a-scene arjs="debugUIEnabled: false" embedded arjs>
       <!-- define your gltf asset -->
     <a-assets crossorigin="anonymous">
-      <!-- <a-asset-item id="knight-obj" src="/model/knight/knight.obj"></a-asset-item> -->
-      <!-- <a-asset-item id="knight-mtl" src="/model/knight/knight.mtl"></a-asset-item> -->
-      <!-- <audio id="alone" src="Alone.mp3" autoplay></audio> -->
+      <!-- <a-asset-item id="knight-obj" src="/mo/knight/knight.mtl"></a-asset-item> -->
+      <audio src="audio/skeleton.mp3" autoplay></audio>
       <!-- <a-asset-item id="tree" src="model/baby_groot/scene.gltf"></a-asset-item> -->
     </a-assets>
 
-    <a-text value="Hello, Arun !" ></a-text>
+    <!-- <a-text value="Hello, Aruasfasn !" ></a-text> -->
 
-    <a-entity gltf-model="url(model/bat/scene.gltf)" animation-mixer scale = "0.005 0.005 0.005 0.005"></a-entity>
+    <a-entity gltf-model="url(models/Biology_3/scene.gltf)" animation-mixer scale = "0.02 0.02 0.02 0.02"></a-entity>
 
       <!-- define a camera which will move according to the marker position -->
       <a-marker-camera preset='hiro'></a-marker-camera>
