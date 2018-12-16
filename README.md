@@ -11,5 +11,6 @@ Navigate to your favourite subjects and enjoy the world augmneted reality provid
 
 SCREEN SHOTS:
 ![screenshot 38](https://user-images.githubusercontent.com/29522653/50051680-b3ef9800-013c-11e9-88e0-f83d7a0f1d5d.png)
+![screenshot 40](https://user-images.githubusercontent.com/29522653/50051692-e4373680-013c-11e9-8bd0-312d61ded9de.png)
 
 
